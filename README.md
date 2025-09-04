@@ -76,18 +76,6 @@ src/
   utils/
 ```
 
-## .gitignore
-
-This template ignores:
-
-```
-node_modules/
-dist/
-.env
-```
-
-**Do not** ignore `src/` or config files—these are needed for development.
-
 ## License
 
 MIT
