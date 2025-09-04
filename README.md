@@ -17,8 +17,10 @@ Perfect for rapid backend development.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/abdulrehmansafdar/Nodejs_backend-template.git
-cd Nodejs_backend-template
+git clone https://github.com/abdulrehmansafdar/Nodejs_backend-template.git my-project
+cd my-project
+npm install
+node setup.js my-project
 ```
 
 ### 2. Install dependencies
